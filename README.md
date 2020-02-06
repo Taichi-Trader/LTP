@@ -1,0 +1,2 @@
+# LTP
+Linux Trader Platform
